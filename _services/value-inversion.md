@@ -1,7 +1,7 @@
 ---
-title: "Wealth Management"
-date: 2019-06-18T12:33:46+10:00
-weight: 8
+title: "Value Inversion"
+date: 2019-05-18T12:33:46+10:00
+weight: 7
 ---
 
 Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,

@@ -1,7 +1,7 @@
 ---
-title: "Insurance"
-date: 2019-05-18T12:33:46+10:00
-weight: 7
+title: "Time, Talent, Treasure"
+date: 2019-06-18T12:33:46+10:00
+weight: 8
 ---
 
 Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
