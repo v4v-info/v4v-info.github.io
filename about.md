@@ -1,5 +1,5 @@
 ---
-title: About
+title: The V4V Philosophy
 layout: page
 description: About
 bodyClass: page-about
