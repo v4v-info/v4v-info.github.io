@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'value4value.info'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
@@ -10,7 +10,7 @@ logo:
   desktop_height: "32px"
   desktop_width: "120px"
 
-home: 
+home:
   limit_services: 6
 
 collections:
