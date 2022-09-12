@@ -1,7 +1,7 @@
 [
   {
     "title": "Time",
-    "description": "New clients receive an obligation free consultation.",
+    "description": "Your time & attention are valuable. Giving them both to a project is valueable too.",
     "image": {
       "url": "images/features/time.svg",
       "width": 80,
@@ -10,7 +10,7 @@
   },
   {
     "title": "Talent",
-    "description": "All members of our team are certified accountants.",
+    "description": "It doesn't have to be money. Whatever your skills, there are many ways to give back.",
     "image": {
       "url": "images/features/talent.svg",
       "width": 80,
@@ -19,7 +19,7 @@
   },
   {
     "title": "Treasure",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "description": "Thanks to <a href='https://podcastindex.org/apps?appTypes=app&elements=Value' target='_blank'>Lightning</a>, monetary value can be exchanged instantly without friction.",
     "image": {
       "url": "images/features/treasure.svg",
       "width": 80,
