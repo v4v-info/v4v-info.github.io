@@ -7,6 +7,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# The People Behind the V4V Movement
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Started over 15 years ago, now struck by Lightning and
+rekindled by an orange flame.
