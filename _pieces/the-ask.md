@@ -4,9 +4,11 @@ date: 2019-03-28T15:14:54+10:00
 weight: 5
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+The Ask is the most important piece of the puzzle. The \#1 reason why people do
+not give to charities and the like is because they weren't asked, and the same
+is true for value4value. There is an art in asking your audience to give back,
+and it will be different depending on medium, demographics, and other factors.
+But one thing remains: you'll have to ask.
 
 ![Accounting pieces](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
