@@ -24,15 +24,15 @@ bodyClass: "page-home"
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
-      {% assign limit = site.home.limit_services | default: 6 %}
-      {% for service in site.services limit: limit %}
+      {% assign limit = site.home.limit_pieces | default: 6 %}
+      {% for piece in site.pieces limit: limit %}
       <div class="col-12 col-md-4 mb-1">
-        <div class="service service-summary">
-          <div class="service-content">
-            <h2 class="service-title">
-              <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+        <div class="piece piece-summary">
+          <div class="piece-content">
+            <h2 class="piece-title">
+              <a href="{{ piece.url | relative_url }}">{{ piece.title }}</a>
             </h2>
-            <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
+            <p>{{ piece.content | markdownify | strip_html | truncate: 100 }}</p>
           </div>
         </div>
       </div>

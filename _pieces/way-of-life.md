@@ -1,15 +1,14 @@
 ---
-title: "Time, Talent, Treasure"
-date: 2019-06-18T12:33:46+10:00
-weight: 8
+title: "Way of Life"
+date: 2019-02-28T15:15:34+10:00
+weight: 3
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
+de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
+crimen habet Priamum nec.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting pieces](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 # Objectives
 
