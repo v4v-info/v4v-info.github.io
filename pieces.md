@@ -9,4 +9,6 @@ intro_image_hide_on_mobile: true
 
 # The Pieces That Make It Work
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Value-for-value is more than just streaming money. It is more than just direct
+payments. It is a different approach to media, a different approach to creating
+content, a different way of sharing value with the world.
