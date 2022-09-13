@@ -14,15 +14,11 @@ speech, sound money and censorship resistance.
   - **{{ piece.title }}:** {{ piece.content | markdownify | strip_html | truncatewords: 33 }} [[more]]({{ piece.url | relative_url }})
 {% endfor %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ac nibh ultrices,
-volutpat turpis id, volutpat purus. Nulla facilisi. Etiam lobortis urna aliquet
-nibh dapibus hendrerit. Vivamus vel hendrerit neque. Aliquam fringilla odio eget
-sapien aliquet pharetra. Suspendisse rutrum metus justo, volutpat bibendum nisl
-auctor efficitur. Fusce cursus, dolor et dignissim euismod, eros enim vestibulum
-lectus, euismod tincidunt ipsum arcu sed quam. Etiam in nunc eget lectus rhoncus
-dignissim ac vel nibh. Maecenas leo erat, tincidunt a velit at, faucibus
-malesuada quam. Curabitur quis interdum est. Vivamus sollicitudin justo eget
-eleifend placerat. Nunc sagittis ipsum libero, et aliquet elit imperdiet id.
+There are [multiple pieces][pieces] that make it all work, not the least of
+which is bitcoin and its lightning network that allows the frictionless
+automation of micropayments.
+
+[pieces]: {{ '/pieces' | absolute_url }}
 
 > Podcasting really flipped the scarcity-based economy of radio broadcasting on
 > its head.
