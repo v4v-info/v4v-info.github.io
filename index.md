@@ -1,5 +1,5 @@
 ---
-title: value4value - the new international lifestyle
+title: V4V - The New International Lifestyle
 layout: home
 description: value4value is a monetization model, a content format, and a way of life. It is about freedom and openness, fairness and inclusiveness, sound money and censorship resistance.
 intro_image: "images/illustrations/pointing.svg"
