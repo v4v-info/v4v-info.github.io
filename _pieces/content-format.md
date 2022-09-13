@@ -9,6 +9,9 @@ vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
 nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
 cadet
 
+- Participatory
+- Reciprocal
+
 ![Accounting pieces](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 # Objectives
