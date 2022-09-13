@@ -19,7 +19,7 @@
   },
   {
     "title": "Treasure",
-    "description": "Thanks to <a href='https://www.thelightningnetwork.io/' target='_blank'>Lightning</a>, monetary value can be exchanged instantly without friction.",
+    "description": "Thanks to Lightning, monetary value can be exchanged instantly without friction.",
     "image": {
       "url": "images/features/treasure.svg",
       "width": 80,
