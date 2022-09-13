@@ -11,18 +11,24 @@ center.
 
 # Financial Censorship
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-culpa qui officia deserunt mollit anim id est laborum.
+Depending on your circumstances, it might be difficult or impossible to receive
+funds via traditional means. Payment providers and banks are often forced to
+[deplatform][deplatform] content creators for political reasons. Millions of
+people are unbanked in the first place, be it due to a lack of infrastructure or
+due to a lack of identity.
+
+Luckily, bitcoin fixes this. It banks the unbanked and provides censorship
+resistance to those who need it most. Free speech and free value transfer are at
+the core of the V4V movement, which is why bitcoin is such an important piece to
+the puzzle.
+
+
+[deplatform]: {{ '/pieces/no-deplatforming' | absolute_url }}
 
 # Self-Censorship
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-culpa qui officia deserunt mollit anim id est laborum.
+Nobody likes to bite the hand that feeds them. This, unfortunately, leads to a
+chilling effect when it comes to discussing certain topics, depending on your
+source of income. You wouldn't bad-mouth an advertiser of yours, would you?
+Well, most people would not, which is why advertisement, in the end, often leads
+to censorship.
