@@ -1,5 +1,5 @@
 ---
-title: Pieces
+title: The V4V Pieces
 layout: pieces
 description: Pieces
 intro_image: "images/illustrations/reading.svg"
