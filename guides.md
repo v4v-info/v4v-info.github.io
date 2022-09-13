@@ -1,8 +1,13 @@
 ---
 title: V4V Guides
-layout: contact
+layout: guides
+intro_image: "/images/illustrations/compass.svg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: true
 description: Guides
 ---
+
+# V4V Guides
 
 Several people have written guides on how to get started with V4V, especially
 around the medium of podcasting.
