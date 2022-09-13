@@ -7,8 +7,6 @@ intro_image_hide_on_mobile: true
 description: Guides
 ---
 
-# V4V Guides
-
 Several people have written guides on how to get started with V4V, especially
 around the medium of podcasting.
 
