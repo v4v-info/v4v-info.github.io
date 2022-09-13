@@ -8,6 +8,9 @@ main:
   # - name: "People"
   #   url: "/team/"
   #   weight: 3
+  - name: "Guides"
+    url: "/guides/"
+    weight: 4
   - name: "Contact"
     url: "/contact/"
     weight: 5
