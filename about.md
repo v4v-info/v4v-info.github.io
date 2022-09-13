@@ -5,81 +5,30 @@ description: About
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+> Value-for-value is a monetization model, a content format, and a way of life. It
+> is about freedom and openness, connection and free speech, sound money and
+> censorship resistance.
 
-# Objectives
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ac nibh ultrices,
+volutpat turpis id, volutpat purus. Nulla facilisi. Etiam lobortis urna aliquet
+nibh dapibus hendrerit. Vivamus vel hendrerit neque. Aliquam fringilla odio eget
+sapien aliquet pharetra. Suspendisse rutrum metus justo, volutpat bibendum nisl
+auctor efficitur. Fusce cursus, dolor et dignissim euismod, eros enim vestibulum
+lectus, euismod tincidunt ipsum arcu sed quam. Etiam in nunc eget lectus rhoncus
+dignissim ac vel nibh. Maecenas leo erat, tincidunt a velit at, faucibus
+malesuada quam. Curabitur quis interdum est. Vivamus sollicitudin justo eget
+eleifend placerat. Nunc sagittis ipsum libero, et aliquet elit imperdiet id.
 
-Financial accounting and financial reporting are often used as synonyms.
+[![Adam talking V4V @ BitBlockBoom 2022](/images/bitblockboom.jpg)](https://youtu.be/8RNsFNyCHL4?t=19964)
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+Watch the talk: [Adam Curry @ BitBlockBoom 2022](https://youtu.be/8RNsFNyCHL4?t=19964)
 
-## Relevance
-
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
-
-> The ingredients of relevance are the predictive value and confirmatory value.
-
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
-
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Orci varius natoque penatibus et magnis dis parturient montes, nascetur
+ridiculus mus. Curabitur vel dolor sed erat lobortis finibus. Aenean consequat
+neque sit amet ante posuere tristique. Aliquam dignissim nunc dictum
+sollicitudin rhoncus. Phasellus at porttitor eros, ac consequat velit. Ut ac
+turpis et ante condimentum euismod eget a sapien. Praesent tristique justo ut
+ligula pulvinar, eget accumsan urna aliquam. Donec vitae facilisis leo, faucibus
+laoreet tortor. Etiam sit amet semper tortor. In in urna leo. Vivamus sit amet
+varius risus, non viverra purus. In at diam finibus, porttitor tellus eget,
+vulputate enim.
