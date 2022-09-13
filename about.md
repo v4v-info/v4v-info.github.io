@@ -33,4 +33,4 @@ eleifend placerat. Nunc sagittis ipsum libero, et aliquet elit imperdiet id.
 
 Watch the talk: [Adam Curry @ BitBlockBoom 2022](https://youtu.be/8RNsFNyCHL4?t=19964)
 
-Get started with Podcasting 2.0: [value4value.io](http://value4value.io)
+Want to get started? Follow one of the [guides]({{ '/guides' | absolute_url }})!
