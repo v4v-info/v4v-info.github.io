@@ -45,6 +45,8 @@ economy, towards an economy of _value_, openness, and abundance.
 > well. A transaction involving a digital photograph of an apple is very
 > different than a transaction involving a physical apple.
 >
-> <cite>[Gigi D.](https://dergigi.com/busking)</cite>
+> <cite>[Gigi D.][busking]</cite>
+
+[busking]: https://dergigi.com/2021/12/30/the-freedom-of-value/#accept-the-nature-of-information
 
 Want to get started? Follow one of the [guides]({{ '/guides' | absolute_url }})!
