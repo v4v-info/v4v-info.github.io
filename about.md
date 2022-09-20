@@ -10,7 +10,8 @@ format, and a way of life. It is about freedom and openness, connection and free
 speech, sound money and censorship resistance.
 
 {% assign limit = 3 %}
-{% for piece in site.pieces limit: limit %}
+{% assign sorted_pieces = site.pieces | sort: 'weight' %}
+{% for piece in sorted_pieces limit: limit %}
   - **{{ piece.title }}:** {{ piece.content | markdownify | strip_html | truncatewords: 33 }} [[more]]({{ piece.url | relative_url }})
 {% endfor %}
 

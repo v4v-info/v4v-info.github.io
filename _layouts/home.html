@@ -25,7 +25,8 @@ bodyClass: "page-home"
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
       {% assign limit = site.home.limit_pieces | default: 6 %}
-      {% for piece in site.pieces limit: limit %}
+      {% assign sorted_pieces = site.pieces | sort: 'weight' %}
+      {% for piece in sorted_pieces limit: limit %}
       <div class="col-12 col-md-4 mb-1">
         <div class="piece piece-summary">
           <div class="piece-content">

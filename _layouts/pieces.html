@@ -20,7 +20,8 @@ bodyClass: "page-pieces"
 
 <div class="container pt-6 pb-6">
   <div class="row">
-    {% for piece in site.pieces %}
+    {% assign sorted_pieces = site.pieces | sort: 'weight' %}
+    {% for piece in sorted_pieces %}
     <div class="col-12 col-md-6 mb-3">
       <div class="piece piece-summary">
         <div class="piece-content">
