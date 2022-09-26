@@ -1,11 +1,11 @@
 # [value4value.info](https://value4value.info/)
 
-A site to explain the concepts and ideas around [#value4value](https://twitter.com/search?q=%23value4value OR %23v4v)
+A site to explain the concepts and ideas around [#value4value](https://twitter.com/search?q=%23value4value%20OR%20%23v4v)
 
 ### 💬 Join the discussion!
 
-- Matrix: [v4v.chat](http://v4v.chat) / [value4value.chat](http://value4value.chat)
-- Twitter: [#V4V](https://twitter.com/search?q=%23value4value OR %23v4v)
+- Matrix: [value4value.chat](http://value4value.chat)
+- Twitter: [#value4value](https://twitter.com/search?q=%23value4value%20OR%20%23v4v)
 
 ### ✍️ Contribute
 
