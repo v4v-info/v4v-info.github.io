@@ -12,4 +12,5 @@ show_call_box: true
 
 Value-for-value is a monetization model, a content format, and a way of life. It
 is about freedom and openness, connection and free speech, sound money and
-censorship resistance.
+censorship resistance. The largest success to date of applied V4V is Podcasting
+2.0
