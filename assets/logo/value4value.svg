@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="550.95673mm"
+   height="107.80864mm"
+   viewBox="0 0 550.95672 107.80864"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="value4value.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.30538497"
+     inkscape:cx="1485.0109"
+     inkscape:cy="-286.5236"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-52.786557,-45.07689)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:74.0833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.29167;stroke-dasharray:none"
+       x="46.56356"
+       y="124.79924"
+       id="text113"><tspan
+         sodipodi:role="line"
+         id="tspan111"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.0833px;font-family:Gontserrat;-inkscape-font-specification:'Gontserrat Italic';fill:#2f2f41;fill-opacity:1;stroke-width:5.29167;stroke-dasharray:none"
+         x="46.56356"
+         y="124.79924"><tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Gontserrat;-inkscape-font-specification:'Gontserrat Bold Italic';stroke-width:5.29167;stroke-dasharray:none"
+   id="tspan12395">V</tspan>ALUE<tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Gontserrat;-inkscape-font-specification:'Gontserrat Bold Italic';fill:#e5261f;fill-opacity:0;stroke-width:5.29167;stroke-dasharray:none"
+   id="tspan2476">4</tspan><tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Gontserrat;-inkscape-font-specification:'Gontserrat Bold Italic';stroke-width:5.29167;stroke-dasharray:none"
+   id="tspan12397">V</tspan>ALUE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:106.954px;line-height:1.25;font-family:sans-serif;opacity:0;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.29167;stroke-dasharray:none"
+       x="289.86847"
+       y="122.41509"
+       id="text14640"><tspan
+         sodipodi:role="line"
+         id="tspan14638"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.954px;font-family:Gontserrat;-inkscape-font-specification:'Gontserrat Italic';fill:#2f2f41;fill-opacity:1;stroke-width:5.29167;stroke-dasharray:none"
+         x="289.86847"
+         y="122.41509"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Gontserrat;-inkscape-font-specification:'Gontserrat Bold Italic';fill:#e5261f;fill-opacity:0.971765;stroke-width:5.29167;stroke-dasharray:none"
+           id="tspan14634">4</tspan></tspan></text>
+    <path
+       id="path4074"
+       style="fill:#ef272a;fill-opacity:1;stroke:#2f2f41;stroke-width:2.82513;stroke-dasharray:none;stroke-opacity:1"
+       d="m 329.7647,54.350915 c 0,0 0.0102,-0.359535 -0.35651,-0.371252 -0.36612,-0.01159 -0.54939,0.371373 -0.54939,0.371373 l -27.40021,47.110574 c -0.54017,0.92893 0.67218,2.38364 1.98703,2.38364 h 27.45357 l -10.6409,39.56912 c -0.10363,0.38523 0.58012,0.77102 0.79336,0.44772 l 33.80756,-51.301432 c 0.60334,-0.91557 -0.61852,-2.426122 -1.96213,-2.426122 h -9.30545 l 1.47407,-5.691029 c 0.2367,-0.913472 -0.38575,-1.648382 -1.39623,-1.648382 h -5.62907 c -1.01048,0 -2.01425,0.73491 -2.25093,1.648382 l -1.47406,5.691029 h -8.00037 z"
+       sodipodi:nodetypes="czccsccccsccsscccc" />
+  </g>
+</svg>
