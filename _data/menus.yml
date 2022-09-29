@@ -11,7 +11,7 @@ main:
   - name: "Guides"
     url: "/guides/"
     weight: 4
-  - name: "Contact"
+  - name: "Contribute"
     url: "/contact/"
     weight: 5
 
@@ -19,6 +19,6 @@ footer:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "Contact"
+  - name: "Contribute"
     url: "/contact/"
     weight: 2
