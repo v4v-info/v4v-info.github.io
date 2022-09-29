@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
-   sodipodi:docname="value4value-mobile.svg"
+   sodipodi:docname="logo-mobile.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.1570219"
-     inkscape:cx="269.22567"
-     inkscape:cy="96.368097"
+     inkscape:cx="188.41476"
+     inkscape:cy="96.368098"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="0"
@@ -40,32 +40,24 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-255.89612,-52.566712)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:74.0833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.29167;stroke-dasharray:none"
-       x="249.67313"
-       y="124.79924"
-       id="text113"><tspan
-         sodipodi:role="line"
-         id="tspan111"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.0833px;font-family:Gontserrat;-inkscape-font-specification:'Gontserrat Italic';fill:#2f2f41;fill-opacity:1;stroke-width:5.29167;stroke-dasharray:none"
-         x="249.67313"
-         y="124.79924"><tspan
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Gontserrat;-inkscape-font-specification:'Gontserrat Bold Italic';stroke-width:5.29167;stroke-dasharray:none"
-           id="tspan12395">V</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:74.0833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.29167;stroke-dasharray:none"
-       x="343.39407"
-       y="124.9474"
-       id="text15879"><tspan
-         sodipodi:role="line"
-         id="tspan15877"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.0833px;font-family:Gontserrat;-inkscape-font-specification:'Gontserrat Italic';fill:#2f2f41;fill-opacity:1;stroke-width:5.29167;stroke-dasharray:none"
-         x="343.39407"
-         y="124.9474"><tspan
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Gontserrat;-inkscape-font-specification:'Gontserrat Bold Italic';stroke-width:5.29167;stroke-dasharray:none"
-           id="tspan15875">V</tspan></tspan></text>
+    <g
+       aria-label="V"
+       id="text113"
+       style="font-size:74.0833px;line-height:1.25;stroke-width:5.29167;fill:#2f2f41;fill-opacity:1">
+      <path
+         d="m 296.49377,72.866848 h 13.92766 l -28.89249,51.932392 h -14.07582 l -11.557,-51.932392 h 14.52033 l 6.74158,37.782482 z"
+         style="font-style:italic;font-weight:bold;font-family:Gontserrat;-inkscape-font-specification:'Gontserrat Bold Italic';fill:#2f2f41;fill-opacity:1"
+         id="path1336" />
+    </g>
+    <g
+       aria-label="V"
+       id="text15879"
+       style="font-size:74.0833px;line-height:1.25;stroke-width:5.29167;fill:#2f2f41;fill-opacity:1">
+      <path
+         d="m 390.21472,73.015011 h 13.92766 L 375.24989,124.9474 H 361.17406 L 349.61707,73.015011 h 14.52033 l 6.74158,37.782479 z"
+         style="font-style:italic;font-weight:bold;font-family:Gontserrat;-inkscape-font-specification:'Gontserrat Bold Italic';fill:#2f2f41;fill-opacity:1"
+         id="path1339" />
+    </g>
     <path
        id="path4074"
        style="fill:#ef272a;fill-opacity:1;stroke:#2f2f41;stroke-width:2.82513;stroke-dasharray:none;stroke-opacity:1"

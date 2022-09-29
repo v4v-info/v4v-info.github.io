@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
-   sodipodi:docname="value4value.svg"
+   sodipodi:docname="logo.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,15 +24,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.30538497"
-     inkscape:cx="1485.0109"
-     inkscape:cy="-315.9946"
+     inkscape:zoom="2.2819044"
+     inkscape:cx="43.384816"
+     inkscape:cy="226.78426"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="text113" />
   <defs
      id="defs2" />
   <g
@@ -40,23 +40,55 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-52.786557,-52.566682)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:74.0833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.29167;stroke-dasharray:none"
-       x="46.56356"
-       y="124.79924"
-       id="text113"><tspan
-         sodipodi:role="line"
-         id="tspan111"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.0833px;font-family:Gontserrat;-inkscape-font-specification:'Gontserrat Italic';fill:#2f2f41;fill-opacity:1;stroke-width:5.29167;stroke-dasharray:none"
-         x="46.56356"
-         y="124.79924"><tspan
-   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Gontserrat;-inkscape-font-specification:'Gontserrat Bold Italic';stroke-width:5.29167;stroke-dasharray:none"
-   id="tspan12395">V</tspan>ALUE<tspan
-   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Gontserrat;-inkscape-font-specification:'Gontserrat Bold Italic';fill:#e5261f;fill-opacity:0;stroke-width:5.29167;stroke-dasharray:none"
-   id="tspan2476">4</tspan><tspan
-   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Gontserrat;-inkscape-font-specification:'Gontserrat Bold Italic';stroke-width:5.29167;stroke-dasharray:none"
-   id="tspan12397">V</tspan>ALUE</tspan></text>
+    <g
+       aria-label="VALUE4VALUE"
+       id="text113"
+       style="font-size:74.0833px;line-height:1.25;stroke-width:5.29167">
+      <path
+         d="M 93.384205,72.866848 H 107.31186 L 78.419379,124.79924 H 64.343552 L 52.786557,72.866848 h 14.520327 l 6.74158,37.782482 z"
+         style="font-style:italic;font-weight:bold;font-family:Gontserrat;-inkscape-font-specification:'Gontserrat Bold Italic';fill:#2f2f41;fill-opacity:1"
+         id="path2608" />
+      <path
+         d="M 142.87173,124.79924 139.4639,112.131 h -27.41082 l -7.5565,12.66824 H 97.088255 L 128.72182,72.940932 h 7.33425 l 14.44624,51.858308 z m -27.0404,-19.03941 h 21.92866 l -6.81567,-25.336485 z"
+         style="font-style:italic;font-family:Gontserrat;-inkscape-font-specification:'Gontserrat Italic';fill:#2f2f41"
+         id="path2610" />
+      <path
+         d="m 166.50429,118.27991 h 22.52132 l -1.18533,6.51933 H 158.0588 l 10.37166,-51.858308 h 7.11199 z"
+         style="font-style:italic;font-family:Gontserrat;-inkscape-font-specification:'Gontserrat Italic';fill:#2f2f41"
+         id="path2612" />
+      <path
+         d="m 244.29163,103.38917 q -2.07434,10.22349 -8.81592,16.00199 -6.66749,5.70441 -16.89099,5.70441 -8.88999,0 -14.00174,-4.29683 -5.11175,-4.37091 -5.11175,-12.14966 0,-2.29658 0.59267,-5.25991 l 6.07483,-30.448238 h 7.11199 l -6.07483,30.448238 q -0.4445,2.2225 -0.4445,4.07458 0,5.334 3.33375,8.29733 3.33375,2.88925 9.26041,2.88925 6.96383,0 11.63108,-4.0005 4.74133,-4.07458 6.223,-11.26066 l 6.07483,-30.448238 h 7.112 z"
+         style="font-style:italic;font-family:Gontserrat;-inkscape-font-specification:'Gontserrat Italic';fill:#2f2f41"
+         id="path2614" />
+      <path
+         d="M 298.74277,79.460262 H 269.7762 l -3.18558,15.927909 h 25.85507 l -1.25942,6.445249 H 265.3312 l -3.25966,16.44649 h 29.7074 l -1.18533,6.51933 H 253.62604 L 263.9977,72.940932 h 35.9304 z"
+         style="font-style:italic;font-family:Gontserrat;-inkscape-font-specification:'Gontserrat Italic';fill:#2f2f41"
+         id="path2616" />
+      <path
+         d="m 347.41548,103.31508 -2.00025,10.29758 h -6.74158 l -2.14842,11.18658 h -12.44599 l 2.2225,-11.18658 h -23.48441 l 1.778,-9.18633 20.81741,-31.559482 h 12.89049 l -19.70616,30.448232 h 9.70492 l 2.14841,-11.038408 h 12.37191 l -2.14841,11.038408 z"
+         style="font-style:italic;font-weight:bold;font-family:Gontserrat;-inkscape-font-specification:'Gontserrat Bold Italic';fill:#e5261f;fill-opacity:0"
+         id="path2618" />
+      <path
+         d="m 397.19936,72.866848 h 13.92766 l -28.89249,51.932392 h -14.07582 l -11.557,-51.932392 h 14.52033 l 6.74158,37.782482 z"
+         style="font-style:italic;font-weight:bold;font-family:Gontserrat;-inkscape-font-specification:'Gontserrat Bold Italic';fill:#2f2f41;fill-opacity:1"
+         id="path2620" />
+      <path
+         d="M 446.68691,124.79924 443.27908,112.131 h -27.41082 l -7.5565,12.66824 h -7.40833 L 432.537,72.940932 h 7.33425 l 14.44624,51.858308 z m -27.0404,-19.03941 h 21.92865 L 434.7595,80.423345 Z"
+         style="font-style:italic;font-family:Gontserrat;-inkscape-font-specification:'Gontserrat Italic';fill:#2f2f41"
+         id="path2622" />
+      <path
+         d="m 470.31946,118.27991 h 22.52133 l -1.18534,6.51933 h -29.78148 l 10.37166,-51.858308 h 7.11199 z"
+         style="font-style:italic;font-family:Gontserrat;-inkscape-font-specification:'Gontserrat Italic';fill:#2f2f41"
+         id="path2624" />
+      <path
+         d="m 548.1068,103.38917 q -2.07434,10.22349 -8.81592,16.00199 -6.66749,5.70441 -16.89099,5.70441 -8.88999,0 -14.00174,-4.29683 -5.11175,-4.37091 -5.11175,-12.14966 0,-2.29658 0.59267,-5.25991 l 6.07483,-30.448238 h 7.11199 l -6.07483,30.448238 q -0.4445,2.2225 -0.4445,4.07458 0,5.334 3.33375,8.29733 3.33375,2.88925 9.26041,2.88925 6.96383,0 11.63108,-4.0005 4.74133,-4.07458 6.223,-11.26066 l 6.07483,-30.448238 h 7.112 z"
+         style="font-style:italic;font-family:Gontserrat;-inkscape-font-specification:'Gontserrat Italic';fill:#2f2f41"
+         id="path2626" />
+      <path
+         d="m 602.55793,79.460262 h -28.96657 l -3.18559,15.927909 h 25.85507 l -1.25941,6.445249 h -25.85507 l -3.25967,16.44649 h 29.70741 l -1.18534,6.51933 H 557.4412 l 10.37166,-51.858308 h 35.9304 z"
+         style="font-style:italic;font-family:Gontserrat;-inkscape-font-specification:'Gontserrat Italic';fill:#2f2f41"
+         id="path2628" />
+    </g>
     <path
        id="path4074"
        style="fill:#ef272a;fill-opacity:1;stroke:#2f2f41;stroke-width:2.82513;stroke-dasharray:none;stroke-opacity:1"
