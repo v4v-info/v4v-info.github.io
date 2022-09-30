@@ -9,7 +9,7 @@ A site to explain the concepts and ideas around [#value4value](https://twitter.c
 
 ### ✍️ Contribute
 
-- See [CONTRIBUTING.md]
+- See [CONTRIBUTING.md](https://github.com/v4v-info/v4v-info.github.io/blob/master/CONTRIBUTING.md)
 - [Pull requests](https://github.com/v4v-info/v4v-info.github.io/pulls) very welcome!
 - Have complaints or ideas? [Track an issue!](https://github.com/v4v-info/v4v-info.github.io/issues)
 - Feel free to [edit the doc](https://demo.hedgedoc.org/KAiSh_3KQrSeVydW8L9zJg?both#). If the changes make sense we'll update the site!
