@@ -1,4 +1,4 @@
-# Contributing to value4value.info
+# Contributing to [value4value.info](https://value4value.info/)
 
 First off, thanks for taking the time to contribute! 
 
