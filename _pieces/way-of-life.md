@@ -4,7 +4,7 @@ date: 2019-02-28T15:15:34+10:00
 weight: 3
 ---
 
-Value-for-value is more than a monetization scheme; it's a lifestyle. It's a
+Value4Value is more than a monetization scheme; it's a lifestyle. It's a
 mindset of abundance and fairness, a new way of looking at value—value in
 general, but digital value in particular.
 

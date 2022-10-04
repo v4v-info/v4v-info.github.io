@@ -13,4 +13,4 @@ around the medium of podcasting.
 - [Podcaster Guide](https://fountain.fm/podcaster-guide) by Fountain
 - [Getting Started With Podcasting 2.0](http://adam.curry.com/html/HowtoreceiveBitcoini-BrxM2PDPNJ7Zzbz7G28xk4H0D658fH.html) by Adam Curry
 
-Your favorite guide is missing? [Open an issue!](https://github.com/v4v-info/v4v-info.github.io/issues)
+Your favorite guide is missing? [Open an issue!](https://github.com/V4V-info/V4V-info.github.io/issues)

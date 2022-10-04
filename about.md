@@ -5,7 +5,7 @@ description: About
 bodyClass: page-about
 ---
 
-Value-for-value is more than meets the eye. It's a monetization model, a content
+Value4Value is more than meets the eye. It's a monetization model, a content
 format, and a way of life. It is about freedom and openness, connection and free
 speech, sound money and censorship resistance.
 

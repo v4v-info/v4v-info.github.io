@@ -6,7 +6,7 @@ weight: 10
 
 Platforms and payment providers have the power to censor, a power that V4V
 removes. By cutting out the middlemen and allowing for self-sovereign hosting
-and monetization, the value4value model puts you and your audience in the
+and monetization, the Value4Value model puts you and your audience in the
 center.
 
 # Financial Censorship
