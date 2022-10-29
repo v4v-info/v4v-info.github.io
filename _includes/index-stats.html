@@ -1,7 +1,7 @@
 <div class="call">
   <div class="call-box-top">
-      <div class="index-stat"><strong>{{ site.data.podcastindexstats.stats.feedCountTotal }}</strong> creators indexed.</div>
-      <div class="index-stat"><strong>{{ site.data.podcastindexstats.stats.feedsWithValueBlocks }}</strong> creators value-enabled.</div>
+      <div class="index-stat"><strong id="total">{{ site.data.podcastindexstats.stats.feedCountTotal }}</strong> creators indexed.</div>
+      <div class="index-stat"><strong id="value">{{ site.data.podcastindexstats.stats.feedsWithValueBlocks }}</strong> creators value-enabled.</div>
   </div>
     {% if include.show_button %}
       <div class="call-box-bottom">
