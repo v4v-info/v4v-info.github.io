@@ -10,6 +10,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
   <!-- Self host font -->
   <!-- <link rel="preload" href="{{ '/assets/fonts/playfair-display.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin> -->
   <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet">
@@ -24,6 +25,17 @@
   {% if site.data.seo.meta_twitter_site %}<meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}"/>{% endif %}
   {% if site.data.seo.meta_twitter_creator %}<meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}"/>{% endif %}
 
+  <!-- Number Formatting -->
+  <script>
+  $(document).ready(function(){
+      let totalFeeds = {{ site.data.podcastindexstats.stats.feedCountTotal }};
+      let valueFeeds = {{ site.data.podcastindexstats.stats.feedsWithValueBlocks }};
+      let formattedTotal = parseInt(totalFeeds).toLocaleString('en-US');
+      let formattedValue = parseInt(valueFeeds).toLocaleString('en-US');
+      $("strong#total").html(formattedTotal);
+      $("strong#value").html(formattedValue);
+  });
+  </script>
 </head>
 
 <body class='page {{layout.bodyClass}}'>
