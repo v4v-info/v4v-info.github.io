@@ -1,0 +1,11 @@
+<div class="call">
+  <div class="call-box-top">
+      <div class="index-stat"><strong>{{ site.data.podcastindexstats.stats.feedCountTotal }}</strong> creators indexed.</div>
+      <div class="index-stat"><strong>{{ site.data.podcastindexstats.stats.feedsWithValueBlocks }}</strong> creators value-enabled.</div>
+  </div>
+    {% if include.show_button %}
+      <div class="call-box-bottom">
+        <a href="{{ 'about' | relative_url }}" class="button">Learn more</a>
+      </div>
+    {% endif %}
+</div>
