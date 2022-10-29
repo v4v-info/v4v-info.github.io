@@ -25,6 +25,17 @@
   {% if site.data.seo.meta_twitter_site %}<meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}"/>{% endif %}
   {% if site.data.seo.meta_twitter_creator %}<meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}"/>{% endif %}
 
+  <!-- Number Formatting -->
+  <script>
+  $(document).ready(function(){
+      let totalFeeds = {{ site.data.podcastindexstats.stats.feedCountTotal }};
+      let valueFeeds = {{ site.data.podcastindexstats.stats.feedsWithValueBlocks }};
+      let formattedTotal = parseInt(totalFeeds).toLocaleString('en-US');
+      let formattedValue = parseInt(valueFeeds).toLocaleString('en-US');
+      $("strong#total").html(formattedTotal);
+      $("strong#value").html(formattedValue);
+  });
+  </script>
 </head>
 
 <body class='page {{layout.bodyClass}}'>
