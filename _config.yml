@@ -10,6 +10,10 @@ logo:
   desktop_height: "32px"
   desktop_width: "120px"
 
+podcastindex:
+  total: "4,011,035"
+  value_enabled: "9,885"
+
 home:
   limit_pieces: 6
 
