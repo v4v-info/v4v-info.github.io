@@ -1,0 +1,13 @@
+{
+    "status": "true",
+    "stats": {
+        "feedCountTotal": 4011060,
+        "episodeCountTotal": 121204421,
+        "feedsWithNewEpisodes3days": 110962,
+        "feedsWithNewEpisodes10days": 250531,
+        "feedsWithNewEpisodes30days": 360700,
+        "feedsWithNewEpisodes90days": 484922,
+        "feedsWithValueBlocks": 10152
+    },
+    "description": "Found matching feeds."
+}
