@@ -15,5 +15,3 @@ HEADERS=(-H "User-Agent: bash-podcastindex-org-example/0.1" -H "X-Auth-Key: ${AP
 # Make request
 curl --silent "${HEADERS[@]}"  "${REQUEST_URL}" > _data/podcastindexstats.json
 
-git add .
-git commit -m "chore(data): update index stats"
