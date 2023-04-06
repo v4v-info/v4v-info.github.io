@@ -35,6 +35,8 @@ first: the switch from a mindset of scarcity to a mindset of abundance.
 
 Watch the talk: [Adam Curry @ BitBlockBoom 2022](https://youtu.be/8RNsFNyCHL4?t=19964)
 
+Listen to Adam talk V4V on [TFTC RIP #409](https://tftc.io/tftc-podcast/409-discussing-value-4-value-with-the-podfather-adam-curry/)
+
 ---
 
 The V4V model provides a solution to the problem of selling information. A
