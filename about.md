@@ -35,7 +35,8 @@ first: the switch from a mindset of scarcity to a mindset of abundance.
 
 Watch the talk: [Adam Curry @ BitBlockBoom 2022](https://youtu.be/8RNsFNyCHL4?t=19964)
 
-Listen to Adam talk V4V on [TFTC RIP #409](https://tftc.io/tftc-podcast/409-discussing-value-4-value-with-the-podfather-adam-curry/)
+Listen to Adam talk V4V on [TFTC RIP #409](https://tftc.io/tftc-podcast/409-discussing-value-4-value-with-the-podfather-adam-curry/):
+[![Adam talking V4V on TFTC](/images/409-Adam-Curry.png)](https://youtu.be/meAO2plwnXw)
 
 ---
 
