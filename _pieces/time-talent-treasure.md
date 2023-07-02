@@ -12,4 +12,4 @@ treasure. That's all there is to it, really.
 - **Talent**: It doesn't have to be money. Whatever your skills, there are many ways to give back.
 - **Treasure**: Thanks to [Lightning][lightning], monetary value can be exchanged instantly without friction.
 
-[lightning]: https://www.thelightningnetwork.io/
+[lightning]: https://lightning.network/
