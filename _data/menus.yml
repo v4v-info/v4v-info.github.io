@@ -1,10 +1,13 @@
 main:
+  - name: "Home"
+    url: "/"
+    weight: 1
   - name: "Philosophy"
     url: "/about/"
-    weight: 1
+    weight: 2
   - name: "Pieces"
     url: "/pieces/"
-    weight: 2
+    weight: 3
   # - name: "People"
   #   url: "/team/"
   #   weight: 3
