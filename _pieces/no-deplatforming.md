@@ -4,7 +4,7 @@ date: 2019-05-18T12:33:46+10:00
 weight: 9
 ---
 
-An increasing number of people is getting deplatformed from all kinds of
+An increasing number of people are getting deplatformed from all kinds of
 services. Whether you are booted off YouTube, banned from Twitter, kicked from
 PayPal, or removed from the SWIFT network, the result is always the same:
 someone in power doesn't want you to do a certain thing, which is why your
