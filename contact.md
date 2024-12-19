@@ -10,7 +10,6 @@ all figuring stuff out as we go along, so feel free to chime in!
 
 - Nostr: [#Value4Value](https://nostr.band/?q=%23value4value) & [#V4V](https://nostr.band/?q=%23v4v)
 - Matrix: [V4V.chat](http://V4V.chat) / [Value4Value.chat](http://Value4Value.chat)
-- Twitter: [#V4V](https://twitter.com/search?q=%23value4value OR %23v4v)
 
 This site is a community effort. If you want to improve something, please do!
 
