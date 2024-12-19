@@ -51,6 +51,23 @@ economy, towards an economy of _value_, openness, and abundance.
 >
 > <cite>[Gigi D.][busking]</cite>
 
+More and more creators are discovering the V4V model for themselves:
+
+> The skill, time, and talent/personality employed to create artistic expressions
+> are valuable, and their supply cannot be easily reproduced/replicated even
+> though the individual manifestations of them (the works of art) can be. This is,
+> ultimately, what creators must figure out how to monetize if they are to make
+> their work economically sustainable.
+> [...]
+> [Nostr][nr] and [Bitcoin][br] give creators of every type of content the opportunity to
+> directly own and control the distribution and monetization of their time, skill,
+> and talent, more so than any other service or platform on the Internet.
+>
+> <cite>[corndalorian][corn]</cite>
+
 [busking]: https://dergigi.com/2021/12/30/the-freedom-of-value/#accept-the-nature-of-information
+[corn]: https://habla.news/corndalorian/thoughts-on-v4v
+[nr]: https://nostr-resources.com/
+[br]: https://bitcoin-resources.com/
 
 Want to get started? Follow one of the [guides]({{ '/guides' | absolute_url }})!
