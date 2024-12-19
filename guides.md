@@ -15,4 +15,12 @@ around the medium of podcasting.
 - [Podcaster Guide](https://fountain.fm/podcaster-guide) by Fountain
 - [Podcasterwallet.com](https://podcasterwallet.com/) by Podcast Index
 
+There are also some guides for long-form writing and [nostr][nr]:
+
+- [Set up your first zapping wallet](https://nostr.how/en/guides/setup-zapping-wallet) by nostr.how
+- [How to Publish Reads to Nostr](https://youtu.be/gCWEnnVHYAo) by Primal ([njump](https://njump.me/nevent1qqs26xqx3htkacaelw26f9ytru2pnmh5dfcjhwmlmaqm24mpjsmw65gpp4mhxue69uhkummn9ekx7mqzypfjmqcdllsfcyl8t693ghyz2uv0cy4sqqlkr4s7jpmhy8rll7fuksq4d6j))
+- [Publishing on Nostr With Obsidian](https://www.yakihonne.com/article/naddr1qqyx7cnnd9jxjctwqgs87hptfey2p607ef36g6cnekuzfz05qgpe34s2ypc2j6x24qvdwhgrqsqqqa28k94lzz) by Tony ([njump](https://njump.me/naddr1qqyx7cnnd9jxjctwqgs87hptfey2p607ef36g6cnekuzfz05qgpe34s2ypc2j6x24qvdwhgrqsqqqa28k94lzz))
+
 Your favorite guide is missing? [Open an issue!](https://github.com/V4V-info/V4V-info.github.io/issues)
+
+[nr]: https://nostr-resources.com/

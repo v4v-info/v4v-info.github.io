@@ -4,6 +4,7 @@ A site to explain the concepts and ideas around [#Value4Value](https://twitter.c
 
 ### 💬 Join the discussion!
 
+- Nostr: [#Value4Value](https://nostr.band/?q=%23value4value) & [#V4V](https://nostr.band/?q=%23v4v)
 - Matrix: [Value4Value.chat](http://Value4Value.chat)
 - Twitter: [#Value4Value](https://twitter.com/search?q=%23value4value%20OR%20%23v4v)
 
