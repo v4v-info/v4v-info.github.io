@@ -1,13 +1,13 @@
 {
     "status": "true",
     "stats": {
-        "feedCountTotal": 4494878,
-        "episodeCountTotal": 109965593,
-        "feedsWithNewEpisodes3days": 94182,
-        "feedsWithNewEpisodes10days": 242877,
-        "feedsWithNewEpisodes30days": 359553,
-        "feedsWithNewEpisodes90days": 482457,
-        "feedsWithValueBlocks": 25424
+        "feedCountTotal": 4557225,
+        "episodeCountTotal": 125773181,
+        "feedsWithNewEpisodes3days": 111083,
+        "feedsWithNewEpisodes10days": 243646,
+        "feedsWithNewEpisodes30days": 358915,
+        "feedsWithNewEpisodes90days": 484511,
+        "feedsWithValueBlocks": 29927
     },
     "description": "Found matching feeds."
 }
