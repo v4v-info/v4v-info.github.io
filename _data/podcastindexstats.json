@@ -1,13 +1,1 @@
-{
-    "status": "true",
-    "stats": {
-        "feedCountTotal": 4666361,
-        "episodeCountTotal": 162122767,
-        "feedsWithNewEpisodes3days": 78878,
-        "feedsWithNewEpisodes10days": 229661,
-        "feedsWithNewEpisodes30days": 363083,
-        "feedsWithNewEpisodes90days": 488175,
-        "feedsWithValueBlocks": 31427
-    },
-    "description": "Found matching feeds."
-}
+You must set a proper User-Agent string that identifies your application.  Sample code UA strings, default http library UA strings and generic or vague UA strings are not allowed.
